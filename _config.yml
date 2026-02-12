@@ -5,11 +5,11 @@
 # Site
 title: 小屋
 subtitle: '星垂平野阔，月涌大江流'
-description: ''
+description: '01'
 keywords:
 author: 砚昇
 language: zh-CN
-timezone: ''
+timezone: 'earth'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
